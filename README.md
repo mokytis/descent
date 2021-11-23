@@ -28,3 +28,10 @@ for more info view the `COPYING` file in the root for this repo.
 descent is a research project into decentralised, anonymous, and private
 messaging systems. it isn't intended for widespread use, but is designed as an
 experimentation platform for the designers.
+
+## specification
+
+descent isn't just a messagin platform, it is a protocol. it is designed so that
+developers can create clients for descent with whatever toolset they like.
+
+the speficiation can be found in the `SPECIFICATION.md` file.
